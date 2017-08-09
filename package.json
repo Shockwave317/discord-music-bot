@@ -1,0 +1,15 @@
+{
+  "name": "music-bot",
+  "version": "1.0.0",
+  "description": "Music Bot created for discord by Jan Van Der Merwe",
+  "main": "program.js",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jan Hendrik Van Der Merwe",
+  "license": "GPL-3.0"
+}

@@ -4,7 +4,8 @@
   "description": "Music Bot created for discord by Jan Van Der Merwe",
   "main": "program.js",
   "dependencies": {
-    "discord.js": "^11.1.0"
+    "discord.js": "^11.1.0",
+    "ytdl-core": "^0.15.1"
   },
   "devDependencies": {},
   "scripts": {
